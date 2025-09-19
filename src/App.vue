@@ -20,7 +20,7 @@ import { Home, PlusCircle } from 'lucide-vue-next'
 
 <style lang="scss" scoped>
 nav {
-  background: #006aff; /* dark gray */
+  background: #595959; /* dark gray */
   padding: 1rem 2rem;
 
 

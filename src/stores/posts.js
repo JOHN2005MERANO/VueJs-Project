@@ -8,7 +8,7 @@ state() {
     id: 1,
     title: 'Post Title 1',
     body: 'This is the body of post number 1.',
-    author: 'Jeek Ian',
+    author: 'John Michael Merano',
     created_at: '2024-10-01',
     is_saved: false,
   },
